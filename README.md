@@ -6,7 +6,6 @@
 
   React application that allows users to upload a PDF file and re-arrange or extract certain pages from the PDF to create a new PDF.
 
-(live site is facing some issuses with storing files, may be restrictions from hosted platform) 
 </div>
 #📸 Snaps
 
